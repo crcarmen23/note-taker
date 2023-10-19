@@ -12,7 +12,7 @@ N/A
 
 This application can be used to write and save notes to help the user keep track of thoughts and tasks to complete.
 
-[Link to Note Taker Deployed Site]()
+[Link to Note Taker Deployed Site](https://note-taker33-68fcf57e9d02.herokuapp.com/)
 
 Screenshot of deployed site:
 ![screenshot](./screenshot.jpg)
